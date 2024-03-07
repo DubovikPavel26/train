@@ -23,5 +23,3 @@ function myPrompt(){
 
     return alert(`Ответ: число ${firstNumber} в ${secondNumber}-ой системе счисления = ${firstNumber.toString(secondNumber)}`);
 }
-
-myPrompt();
